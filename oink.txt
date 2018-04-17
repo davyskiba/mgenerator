@@ -1,0 +1,23 @@
+*
+2&short
+2&tall
+1&fat
+
+*
+3&young
+2&middle-aged
+1&old
+
+*
+1&man
+1&woman
+
+man
+9&with a beard
+9&in a suit
+1&in a tank
+
+woman
+1&with braided hair
+1&in a dress
+1&on a bike
